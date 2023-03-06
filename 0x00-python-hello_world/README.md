@@ -1,1 +1,1 @@
-0x00. Python - Hello, World Projects
+This directory contains introductory tasks to python Programming.
