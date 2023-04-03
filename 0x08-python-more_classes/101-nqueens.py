@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# 101-nqueens.py
+# Brennan D Baraban <mostf27@gmail.com>
 """Solves the N-queens puzzle.
 
 Determines all possible solutions to placing N
